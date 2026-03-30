@@ -3,13 +3,12 @@
 
 I’m a Full-Stack Software Engineer with hands-on experience building scalable web applications using React, TypeScript, Node.js, Express, PostgreSQL and MongoDB. Skilled in developing RESTful APIs, implementing JWT authentication, and writing automated tests with Vitest and Cypress.
 
+
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vilozado/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vilozado@gmail.com)
 
-<br>
-
-### Tech Stack
+## Tech Stack
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://camo.githubusercontent.com/f9d42959f00fdc4cdea9ebda54d19e277be3c68ff44376dce5188b71cede0cea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 #### Frontend
@@ -24,7 +23,7 @@ I’m a Full-Stack Software Engineer with hands-on experience building scalable 
 #### Tools
 ![Postman](https://camo.githubusercontent.com/c5ede833599180d4d54d7b9826801927fef7716c0c0f3e90e160fe8be244126e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666c6174266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465) ![VS Code](https://camo.githubusercontent.com/506f26695b791b575335aace8ad47cb06c51461cf13d16d44b9e7d65bc5148e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3030373864373f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465) ![Git](https://camo.githubusercontent.com/78bfb11b60169c25b0f861d6bdb5dbe521890d68c618443d66ba6156818c84f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033333f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465) ![Docker](https://camo.githubusercontent.com/8709250bbf63030139d0fba80ac65f9449a9ef3915dcd818a841afae0dad96f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 
-### Projects
+## Projects
 ### [TravelCrew](https://github.com/vilozado/TravelCrew)
 Collaborative trip planning application with calendar and map integration for group travel (team of 3).
 <ul>
