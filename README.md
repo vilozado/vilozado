@@ -25,7 +25,7 @@ I’m a Full-Stack Software Engineer with hands-on experience building scalable 
 ![Postman](https://camo.githubusercontent.com/c5ede833599180d4d54d7b9826801927fef7716c0c0f3e90e160fe8be244126e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666c6174266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465) ![VS Code](https://camo.githubusercontent.com/506f26695b791b575335aace8ad47cb06c51461cf13d16d44b9e7d65bc5148e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3030373864373f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465) ![Git](https://camo.githubusercontent.com/78bfb11b60169c25b0f861d6bdb5dbe521890d68c618443d66ba6156818c84f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033333f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465) ![Docker](https://camo.githubusercontent.com/8709250bbf63030139d0fba80ac65f9449a9ef3915dcd818a841afae0dad96f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 
 ### Projects
-#### [✈️ TravelCrew](https://github.com/vilozado/TravelCrew)
+### [TravelCrew](https://github.com/vilozado/TravelCrew)
 Collaborative trip planning application with calendar and map integration for group travel (team of 3).
 <ul>
   <li>Built with React, Express, PostgreSQL, FullCalendar, React Leaflet</li>
@@ -37,14 +37,14 @@ Collaborative trip planning application with calendar and map integration for gr
 
 [![Demo](https://img.shields.io/badge/Demo-orange?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jdrAwScpedk)
 
-#### [ PetAdopt](https://github.com/vilozado/PetAdopt/tree/dev)
+### [PetAdopt](https://github.com/vilozado/PetAdopt/tree/dev)
 Legacy codebase refactor and testing (team of 3).
 <ul>
   <li>Refactored legacy codebase from JavaScript to TypeScript, enhancing type safety and maintainability</li>
   <li>Collaborated on 100+ unit, integration, and end-to-end tests using Vitest, SuperTest, and Cypress, achieving 80%+ coverage</li>
 </ul>
 
-#### [📚 Litlas](https://github.com/vilozado/Litlas)
+### [Litlas](https://github.com/vilozado/Litlas)
 Independently engineered full-stack application for finding world-wide book recommendations through interative map-based experience.
 <ul>
   <li>Built with React, Node.js, Express, MongoDB, React-Leaflet and the Google Books API</li>
