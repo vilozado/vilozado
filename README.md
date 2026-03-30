@@ -1,5 +1,5 @@
 
-## Hi, I’m Vitoria 👋
+# Hi, I’m Vitoria 👋
 
 I’m a Full-Stack Software Engineer with hands-on experience building scalable web applications using React, TypeScript, Node.js, Express, PostgreSQL and MongoDB. Skilled in developing RESTful APIs, implementing JWT authentication, and writing automated tests with Vitest and Cypress.
 
