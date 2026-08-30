@@ -1,8 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:F72585&height=200&section=header&text=Vitoria%20Lozado&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=35" alt="Header"/>
 
-# Hi, I’m Vitoria 👋
-  
-I’m a **Full-Stack Software Engineer** with hands-on experience building scalable web applications using **React, TypeScript, Node.js, Express, PostgreSQL and MongoDB**. Skilled in developing RESTful APIs, implementing JWT authentication, and writing automated tests with Vitest and Cypress. Currently deepening my knowledge in Rust and AWS. 
-
+Full-Stack Software Engineer building scalable web applications with **React, TypeScript, Node.js and PostgreSQL**. 
+Currently deepening my skills in **Rust** and **AWS**.
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vilozado/)
