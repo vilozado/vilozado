@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="Vitoria Lozado — footer">
+  <defs>
+    <linearGradient id="fbrand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF8C42"/>
+      <stop offset="1" stop-color="#F72585"/>
+    </linearGradient>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0C10"/>
+      <stop offset="1" stop-color="#13161D"/>
+    </linearGradient>
+    <clipPath id="fround"><rect x="0" y="0" width="1200" height="130" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#fround)">
+    <rect width="1200" height="130" fill="url(#fbg)"/>
+    <g>
+      <polygon points="70,-20 160,-20 400,150 310,150" fill="url(#fbrand)" opacity="0.95"/>
+      <polygon points="170,-20 250,-20 490,150 410,150" fill="url(#fbrand)" opacity="0.50"/>
+      <polygon points="260,-20 330,-20 570,150 500,150" fill="url(#fbrand)" opacity="0.28"/>
+      <polygon points="350,-20 420,-20 660,150 590,150" fill="url(#fbrand)" opacity="0.14"/>
+    </g>
+    <rect x="0" y="126" width="1200" height="4" fill="url(#fbrand)"/>
+    <text x="1126" y="74" text-anchor="end" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#E6EDF3" letter-spacing="3">github.com/vilozado</text>
+  </g>
+</svg>
