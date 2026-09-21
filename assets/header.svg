@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Vitoria Lozado — Full-Stack Engineer">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8C42"/>
+      <stop offset="1" stop-color="#F72585"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#13161D"/>
+      <stop offset="1" stop-color="#0A0C10"/>
+    </linearGradient>
+    <clipPath id="round"><rect x="0" y="0" width="1200" height="300" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <g>
+      <polygon points="740,-20 860,-20 620,320 500,320" fill="url(#brand)" opacity="0.10"/>
+      <polygon points="850,-20 950,-20 710,320 610,320" fill="url(#brand)" opacity="0.16"/>
+      <polygon points="950,-20 1030,-20 790,320 710,320" fill="url(#brand)" opacity="0.28"/>
+      <polygon points="1040,-20 1110,-20 870,320 800,320" fill="url(#brand)" opacity="0.50"/>
+      <polygon points="1130,-20 1220,-20 980,320 890,320" fill="url(#brand)" opacity="0.95"/>
+    </g>
+    <rect x="0" y="0" width="1200" height="4" fill="url(#brand)"/>
+    <text x="74" y="150" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="68" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">Vitoria Lozado</text>
+    <rect x="78" y="172" width="156" height="5" rx="2.5" fill="url(#brand)"/>
+    <text x="79" y="218" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="600" fill="#E6EDF3" letter-spacing="5">FULL-STACK ENGINEER</text>
+  </g>
+</svg>
